@@ -1,8 +1,11 @@
+# Site Arch Prototyping Tool
+
+## Overview
+
+The project had to be designed to be locally run, and contained in one portable file. The only file you need to run the program is sitemaper.html. The porgram needed to convert Excel documents into HTML sitemaps with interactive UI, and graphics. All of this needs to be done with one file and no data connection. 
+
+## Using it.
 The Site Arch Prototyping Tool must be run in Chrome, but the client side output can be seen in any browser.
-
-The projkect had to be locally run, and contained in one portable file. The only file you need to run the program is sitemaper.html.
-
-
 
 in your Excel file, copy the columns that are relevant to the sitemap
 paste those specific columns into a new file (keep this file open if there are errors)
